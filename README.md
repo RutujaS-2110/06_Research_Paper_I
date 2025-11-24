@@ -1,7 +1,7 @@
 # Research Paper
 Research Paper Published in IEEE entitled "Innovative Approaches for Non-Intrusive Hemoglobin Detection: A Comparative Analysis"
 
-
+**Link** - https://ieeexplore.ieee.org/abstract/document/10965034
 
 
 
